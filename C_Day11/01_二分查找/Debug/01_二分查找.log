@@ -1,0 +1,6 @@
+﻿  main.c
+D:\code\c\43CPP\C_Day11\01_二分查找\main.c(13,26): warning C4013: “binary_search2”未定义；假设外部返回 int
+D:\code\c\43CPP\C_Day11\01_二分查找\main.c(42,38): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\code\c\43CPP\C_Day11\01_二分查找\main.c(60,38): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\code\c\43CPP\C_Day11\01_二分查找\main.c(81,38): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  01_二分查找.vcxproj -> D:\code\c\43CPP\C_Day11\Debug\01_二分查找.exe

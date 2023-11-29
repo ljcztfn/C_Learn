@@ -1,0 +1,5 @@
+﻿  main.c
+D:\code\c\43CPP\C_Day07\05_动态内存分配\main.c(18,33): warning C4013: “strlen”未定义；假设外部返回 int
+D:\code\c\43CPP\C_Day07\05_动态内存分配\main.c(23,8): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\code\c\43CPP\C_Day07\05_动态内存分配\main.c(24,8): warning C4013: “strcat”未定义；假设外部返回 int
+  05_动态内存分配.vcxproj -> D:\code\c\43CPP\C_Day07\Debug\05_动态内存分配.exe
